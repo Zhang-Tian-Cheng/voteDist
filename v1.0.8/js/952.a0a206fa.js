@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpingbidafen"]=self["webpackChunkpingbidafen"]||[]).push([[952],{23952:function(e,t,u){u.r(t),u.d(t,{default:function(){return d}});var n=function(){var e=this,t=e._self._c;return t("div")},r=[],i=(u(44114),{data(){return{data:null}},mounted(){this.data=this.$route.query,"qrcodeInvite"===this.$route.query.type&&this.$router.push({name:"judgeEntry",query:this.$route.query})}}),a=i,s=u(81656),l=(0,s.A)(a,n,r,!1,null,null,null),d=l.exports}}]);
+//# sourceMappingURL=952.a0a206fa.js.map

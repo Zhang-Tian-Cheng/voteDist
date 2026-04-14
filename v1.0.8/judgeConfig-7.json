@@ -1,0 +1,37 @@
+[
+  {
+    "groupName": "评委1组",
+    "showAll": true,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "评委2组-陈孝海",
+    "showAll": true,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "评委2组-任佳",
+    "showAll": true,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "评委2组-王林",
+    "showAll": true,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "评委2组-何彬",
+    "showAll": true,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "评委2组-其他领导",
+    "showAll": false,
+    "withHLestScore": false
+  },
+  {
+    "groupName": "大众评委",
+    "showAll": true,
+    "withHLestScore": false
+  }
+]
